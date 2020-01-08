@@ -1,6 +1,6 @@
 {
   "name": "cra-template-typescript-redditech",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
@@ -9,7 +9,7 @@
     "redditech"
   ],
   "author": "Nissan Dookeran",
-  "description": "The base TypeScript template for Create React App with options added by Redditech. Early WIP.",
+  "description": "The base TypeScript template for Create React App with options of Moment and Ant Design modules added by Redditech. Early WIP.",
   "main": "template.json",
   "repository": {
     "type": "git",
