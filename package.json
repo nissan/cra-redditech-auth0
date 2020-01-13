@@ -1,14 +1,21 @@
 {
   "name": "cra-template-typescript-redditech",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "typescript",
+    "antd",
+    "moment",
+    "react-router-dom",
     "redditech"
   ],
-  "author": "Nissan Dookeran",
+  "author": {
+    "name": "Nissan Dookeran",
+    "email": "nissan.dookeran@gmail.com",
+    "url": "https://redditech.blog"
+  },
   "description": "The base TypeScript template for Create React App with options for moment, react-router-dom and antd (Ant Design) modules added by Redditech. Early WIP.",
   "main": "template.json",
   "repository": {
