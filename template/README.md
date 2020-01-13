@@ -3,7 +3,10 @@
 ## About this project
 
 This project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Some opinionated modifications made over time by [Nissan Dookeran](https://github.com/nissan) but most of this remains unchanged and all credit to the original template authors for offering publicly their work for my (and others') learning and modification. Modifications include adding `moment` and `antd` Ant Design System modules.
+Some opinionated modifications made over time by [Nissan Dookeran](https://github.com/nissan) but most of this remains unchanged and all credit to the original template authors for offering publicly their work for my (and others') learning and modification. Modifications include:
+1. adding `moment`  
+2. adding `antd` (Ant Design System)
+3. adding `react-router-dom`
 
 ## Available Scripts
 
