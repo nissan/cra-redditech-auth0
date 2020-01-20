@@ -7,6 +7,7 @@ Modifications include:
 1. adding `moment`
 2. adding `antd` (Ant Design System)
 3. adding `react-router-dom`
+4. adding `storybook`
 
 To use this template, add `--template typescript-redditech` when creating a new app.
 
@@ -33,3 +34,6 @@ Additionally Docker image can be found at https://hub.docker.com/repository/dock
 and can be run with `docker run -d --rm -p 8080:80 nissan/cra-redditech`
 
 There is also deployed a sample of the base site generated on Azure at https://cra-redditech.azurewebsites.net/
+
+## Warning: This does not follow production code best practices
+I'm learning by doing, so as much as this is deployed into a production-like environment, it probably isn't production ready from the point of view of following the most scalable or secure practice for deploying. As I learn, it improves, but I welcome the feedback on obvious (and not so obvious) issues with the approaches taken here to get to working code more quickly.
