@@ -8,6 +8,11 @@ Modifications include:
 2. adding `antd` (Ant Design System)
 3. adding `react-router-dom`
 4. adding `storybook`
+5. adding `appinsights`
+6. adding `styled-components`
+7. adding sample code for components using Atomic Design 
+8. adding sample code for using `REACT_APP_` custom environment variables
+9. adding sample Dockerfile
 
 To use this template, add `--template typescript-redditech` when creating a new app.
 
